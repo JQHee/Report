@@ -1,0 +1,9 @@
+[ 2018-04-05T12:38:43+08:00 ] 127.0.0.1 /ecshop/index.php/Tools/JPush/JPushsendMessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载控制器:JPush
+
