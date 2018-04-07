@@ -41,6 +41,7 @@ sudo  chmod  -R 777 Documents
 
 - 重启Apache：
 `sudo apachectl  -k restart`
+`sudo apachectl restart`
 
 - 查看Apache版本：
 `sudo apachectl  -v`
@@ -156,3 +157,20 @@ mysql> `FLUSH PRIVILEGES`;
 mysql> `SET PASSWORD FOR root@'localhost' = PASSWORD('newpassword');`
 最后刷新
 mysql>`FLUSH PRIVILEGES;`
+
+# 五、配置php.ini
+可以通过以下的代码查看php.ini文件目录
+```
+<? php
+echo phpinfo();
+```
+#### 1.配置完成文件大小限制和超时时间
+```
+post_max_size
+max_execution_time
+upload_max_filesize
+```
+#### 2.开启gd拓展
+```
+extension=php_gd2.dll
+```
