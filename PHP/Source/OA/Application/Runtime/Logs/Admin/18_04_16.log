@@ -1,0 +1,4 @@
+[ 2018-04-16T20:35:50+08:00 ] ::1 /OA/index.php/Admin/Dept/del/id/showList
+ERR: 1292:Truncated incorrect DOUBLE value: 'showList'
+ [ SQL语句 ] : DELETE FROM `sp_dept` WHERE `id` IN ('showList','')
+

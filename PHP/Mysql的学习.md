@@ -294,3 +294,46 @@ select s.*, c.name as c_name, c.room from my_student as s right join my_class as
 -- 自然内连接
 select * from my_student natural join my_class;
 ```
+
+# 十、触发器
+如：没下一个订单，库存减少
+触发器：trigger,事先为某张表绑定好一段代码，当表中的某些内容发生改变的时候（增删改），系统会自动触发代码，执行
+
+触发器：事件类型，触发时间，触发对象
+  - 触发类型：增删改，三种类型insert、delete和update
+  - 触发时间：前后：before和after
+  - 触发对象：表中的每一条记录（行）
+一张表中只能拥有一种触发时间的一种类型的触发器：最多一张表能有6个触发器
+
+#### 1.触发器创建
+在sql高级结构中：没有大括号，都是用对应的字符符号代替
+
+基本语法：
+-- 临时修改语句结束符
+Delimiter 自定义符号：后续代码中只有碰到自定义符号才算结束
+
+create trigger 触发器名字 触发时间 事件类型 on 表名 for each row 
+Begin -- 代表左大括号 开始
+      -- 里面就是触发器的内容：每行内容都必须使用语句结束符：分号
+End   -- 代表右大括号 结束
+-- 语句结束符
+自定义符号
+
+-- 将临时修改过来
+Delimiter ;
+
+```
+-- 触发器： 订单生成一个，商品库存减少
+
+delimiter $$
+
+create trigger after_order insert on my_order for each row
+begin
+  -- 触发器内容开始
+  update my_goods set inv = inv - 1 where id = 2;
+end
+$$
+-- 修正结束符
+delimiter ;
+
+```

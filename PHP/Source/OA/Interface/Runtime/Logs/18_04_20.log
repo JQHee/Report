@@ -1,0 +1,308 @@
+[ 2018-04-20T13:26:59+08:00 ] ::1 /oa/interface.php/Home
+ERR: Think\Controller:show方法不存在！
+
+[ 2018-04-20T13:27:00+08:00 ] ::1 /oa/interface.php
+ERR: Think\Controller:show方法不存在！
+
+[ 2018-04-20T15:39:50+08:00 ] ::1 /OA/interface.php
+ERR: Think\Controller:show方法不存在！
+
+[ 2018-04-20T15:49:36+08:00 ] ::1 /OA/interface.php
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+
+[ 2018-04-20T15:49:47+08:00 ] ::1 /OA/interface.php
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+
+[ 2018-04-20T15:50:26+08:00 ] ::1 /OA/interface.php/V1
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+
+[ 2018-04-20T15:50:37+08:00 ] ::1 /OA/interface.php/V1/index/index
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+
+[ 2018-04-20T15:51:08+08:00 ] ::1 /OA/interface.php/V1/index/index
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 15 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 16 行.
+
+[ 2018-04-20T15:51:54+08:00 ] ::1 /OA/interface.php/V1/index/index
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 15 行.
+
+[ 2018-04-20T15:52:09+08:00 ] ::1 /OA/interface.php/V1/index/index
+NOTIC: [8] Use of undefined constant eixt - assumed 'eixt' /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 15 行.
+
+[ 2018-04-20T16:42:23+08:00 ] ::1 /OA/interface.php/V1/index/register
+ERR: 非法操作:register
+
+[ 2018-04-20T16:42:41+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:42:44+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:45:00+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:45:04+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:45:07+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:45:58+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:47:56+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:47:57+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:48:00+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:52:55+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:52:55+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:52:58+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:58:24+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:58:27+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:58:29+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:58:30+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:58:33+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:58:34+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:58:35+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:06+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:08+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:08+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:11+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:12+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:13+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:31+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:32+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:35+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:38+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:39+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:40+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:52+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:53+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T16:59:55+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:56+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T16:59:59+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+NOTIC: [8] Undefined index: OA /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 941 行.
+
+[ 2018-04-20T17:00:00+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T17:00:01+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [2] session_start(): open(/session/tmp_s//sess_78a1f4f6b8d88bc56eb374fef90b9348, O_RDWR) failed: No such file or directory (2) /Library/WebServer/Documents/ThinkPHP/Mode/Api/functions.php 第 890 行.
+
+[ 2018-04-20T17:26:38+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:27:41+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:28:24+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:28:34+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:28:39+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:28:44+08:00 ] ::1 /OA/interface.php/V1/index/register
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:33:47+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+NOTIC: [2] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Library/WebServer/Documents/ThinkPHP/Library/Think/Db/Driver.class.php 第 103 行.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+
+[ 2018-04-20T17:35:02+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: HTTP_LOGINTOKEN /Library/WebServer/Documents/OA/Interface/Common/Controller/ApiController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0015s ]
+ERR: 1054:Unknown column 'token' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `sp_user` WHERE ( token= '' and deadline>1524216902 ) LIMIT 1  
+ERR: 1054:Unknown column 'token' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `sp_user` WHERE ( token= '' and deadline>1524216902 ) LIMIT 1  
+
+[ 2018-04-20T18:27:51+08:00 ] ::1 /OA/interface.php/V1/index/login
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 28 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 29 行.
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0006s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-04-20T18:28:23+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0010s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `sp_user` SET `username`='HJQ',`nickname`='HJQ',`truename`='HJQ',`tel`='13800000000',`birthday`='2018-04-17',`sex`='男',`role_id`='0' WHERE `id` = 2 [ RunTime:0.0043s ]
+
+[ 2018-04-20T18:29:40+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-04-20T18:31:42+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524825102',`token`='B6LLUqitFtU3z6EY',`client_ip`='0.0.0.0' WHERE ( 2 ) [ RunTime:0.0017s ]
+
+[ 2018-04-20T18:31:45+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524825105',`token`='NvGgSmunv2kU675R',`client_ip`='0.0.0.0' WHERE ( 2 ) [ RunTime:0.0005s ]
+
+[ 2018-04-20T18:33:33+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0006s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-04-20T18:34:52+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-04-20T18:35:28+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524825328',`token`='LqIqpGPg5BvrCFrm',`client_ip`='0.0.0.0' WHERE ( 2 ) [ RunTime:0.0015s ]
+
+[ 2018-04-20T18:37:18+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0006s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524825438',`token`='mCr4uvpKOTtXuTds',`client_ip`='0.0.0.0' WHERE ( id ) [ RunTime:0.0015s ]
+
+[ 2018-04-20T18:38:26+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0005s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524825506',`token`='pRLPOLIAjpcg9d8D',`client_ip`='0.0.0.0' WHERE ( id=2 ) [ RunTime:0.0005s ]
+
+[ 2018-04-20T20:35:59+08:00 ] ::1 /OA/interface.php/V1/index/login
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0009s ]
+SQL: SELECT `username`,`nickname`,`truename`,`id`,`tel`,`birthday`,`sex`,`role_id` FROM `sp_user` WHERE `username` = 'HJQ' AND `password` = '123456' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `sp_user` SET `deadline`='1524832559',`token`='LSrZd2ydVaG4ekJB',`client_ip`='0.0.0.0' WHERE ( id=2 ) [ RunTime:0.0014s ]
+
+[ 2018-04-20T22:05:06+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] Missing argument 1 for sendSms(), called in /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php on line 67 and defined /Library/WebServer/Documents/OA/Interface/Common/Common/function.php 第 19 行.
+
+[ 2018-04-20T22:05:09+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] Missing argument 1 for sendSms(), called in /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php on line 67 and defined /Library/WebServer/Documents/OA/Interface/Common/Common/function.php 第 19 行.
+
+[ 2018-04-20T22:05:39+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] Missing argument 1 for sendSms(), called in /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php on line 67 and defined /Library/WebServer/Documents/OA/Interface/Common/Common/function.php 第 19 行.
+
+[ 2018-04-20T22:15:28+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] include_once(./vendor/aliyundysms/sendSms.php): failed to open stream: No such file or directory /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 65 行.
+NOTIC: [2] include_once(): Failed opening './vendor/aliyundysms/sendSms.php' for inclusion (include_path='.:/usr/local/php5/lib/php') /Library/WebServer/Documents/OA/Interface/V1/Controller/IndexController.class.php 第 65 行.
+
+[ 2018-04-20T22:48:17+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T22:48:55+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T22:48:57+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T22:50:17+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T22:50:18+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T22:50:18+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(./SignatureHelper.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/aliyundysms/sendSms.php 第 12 行.
+
+[ 2018-04-20T23:19:29+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+NOTIC: [2] require_once(/Library/WebServer/Documents/ThinkPHP/Library/Vendor/api_sdk/vendor/autoload.php): failed to open stream: No such file or directory /Library/WebServer/Documents/ThinkPHP/Library/Vendor/AliyunSms/AliyunSmsTool.php 第 5 行.
+
+[ 2018-04-20T23:21:32+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+ERR: InvalidAccessKeyId.NotFound Specified access key is not found. HTTP Status: 404 RequestID: 5514214F-1F01-44EA-BBC9-F1C09347A62E
+
+[ 2018-04-20T23:59:38+08:00 ] ::1 /oa/interface.php/V1/Index/sendcode
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0026s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `sp_user` WHERE ( user_phone =  ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `sp_user` WHERE ( user_phone =  ) LIMIT 1  
+

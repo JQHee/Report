@@ -1,0 +1,41 @@
+[ 2018-04-18T14:44:43+08:00 ] ::1 /oa/index.php/admin/dept/showLIST
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_ t1 left join sp_dept as t2 on t1.pid = t2.id  
+
+[ 2018-04-18T14:46:54+08:00 ] ::1 /oa/index.php/admin/dept/showLIST
+ERR: 1066:Not unique table/alias: 't2'
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_dept as t1,sp_dept as t2 left join sp_dept as t2 on t1.pid = t2.id  
+
+[ 2018-04-18T14:47:38+08:00 ] ::1 /oa/index.php/admin/dept/showLIST
+ERR: 1066:Not unique table/alias: 't2'
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_dept as t1,sp_dept as t2 left join sp_dept as t2 on t1.pid = t2.id  
+
+[ 2018-04-18T14:47:40+08:00 ] ::1 /oa/index.php/admin/dept/showLIST
+ERR: 1066:Not unique table/alias: 't2'
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_dept as t1,sp_dept as t2 left join sp_dept as t2 on t1.pid = t2.id  
+
+[ 2018-04-18T14:47:56+08:00 ] ::1 /oa/index.php/admin/dept/showLIST
+ERR: 1066:Not unique table/alias: 't2'
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_dept as t1,sp_dept as t2 left join sp_dept as t2 on t1.pid = t2.id  
+
+[ 2018-04-18T15:26:19+08:00 ] ::1 /oa/index.php/admin/User/www.hjq.com/OA/index.php
+ERR: 非法操作:www.hjq.com
+
+[ 2018-04-18T15:26:44+08:00 ] ::1 /oa/index.php/admin/User/www.hjq.com/OA/index.php
+ERR: 非法操作:www.hjq.com
+
+[ 2018-04-18T15:27:29+08:00 ] ::1 /oa/index.php/admin/User/
+ERR: 非法操作:index
+
+[ 2018-04-18T23:16:57+08:00 ] ::1 /oa/index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-04-18T23:17:28+08:00 ] ::1 /oa/index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-04-18T23:17:30+08:00 ] ::1 /oa/index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-04-18T23:21:03+08:00 ] ::1 /oa/index.php/Admin/Doc/Doc/lookcontent/id/2
+ERR: 非法操作:Doc
+

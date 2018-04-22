@@ -1,0 +1,9 @@
+[ 2018-04-17T23:16:12+08:00 ] ::1 /oa/index.php/admin/index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-04-17T23:16:13+08:00 ] ::1 /oa/index.php/admin/index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2018-04-17T23:19:24+08:00 ] ::1 /oa/index.php/Admin/User/showlist.html
+ERR: 模板不存在:./Application/Admin/View/User/showlist.html
+
