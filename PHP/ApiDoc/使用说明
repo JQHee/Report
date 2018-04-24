@@ -1,0 +1,22 @@
+依赖node.js
+
+在根目录下新增apidoc.json,内容如下：
+{
+    "name": "example",
+    "version": "0.1.0",
+    "description": "apiDoc basic example",
+    "title": "Custom apiDoc browser title",
+    "url" : "https://api.github.com/v1"
+}
+
+使用命令生成
+// 安装 apidoc
+npm install apidoc -g
+// 生成文档
+apidoc -i myapp/ -o apidoc/
+
+
+解决中文不兼容的问题
+目录下：/usr/local/lib/node_modules/apidoc/node_modules/apidoc-core/lib/workers/api_group.js
+注释：
+//group = group.replace(/[^\w]/g, '_');
