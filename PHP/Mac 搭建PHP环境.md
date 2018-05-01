@@ -6,13 +6,15 @@ sudo  chmod  -R 777 Documents
 
 #### 2.设置虚拟主机
 
+- 0. `vim /etc/hosts`
+
 - 1.在终端运行 `sudo vi /etc/apache2/httpd.conf`，打开Apche的配置文件 
 
-2.在`httpd.conf`中找到`Include /private/etc/apache2/extra/httpd-vhosts.conf`，去掉前面的“＃”，保存并退出。 
+- 2.在`httpd.conf`中找到`Include /private/etc/apache2/extra/httpd-vhosts.conf`，去掉前面的“＃”，保存并退出。 
 
-3.运行`sudo apachectl restart`，重启Apache后就开启了虚拟主机配置功能。 
+- 3.运行`sudo apachectl restart`，重启Apache后就开启了虚拟主机配置功能。 
 
-4.运行`sudo vi /etc/apache2/extra/httpd-vhosts.conf`，就打开了配置虚拟主机文件`httpd-vhost.conf`，配置虚拟主机了。需要注意的是该文件默认开启了两个作为例子的虚拟主机
+- 4.运行`sudo vi /etc/apache2/extra/httpd-vhosts.conf`，就打开了配置虚拟主机文件`httpd-vhost.conf`，配置虚拟主机了。需要注意的是该文件默认开启了两个作为例子的虚拟主机
 
 ```
  <VirtualHost *:80>
